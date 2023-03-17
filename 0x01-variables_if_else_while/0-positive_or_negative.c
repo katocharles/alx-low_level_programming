@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - this function assigns a random number to int n everytime
- * this program runs and prints n
- * Return: Always a 0 (means success)
+ * main - this function assigns a random number to int n
+ * everytime this program runs and prints n
+ * Return: Always returns  a 0 (means success)
  */
 int main(void)
 {
