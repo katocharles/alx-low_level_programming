@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point to the program
- * Description: prints word _putchar using putchar prototyp
- * Returns: Returns 0 always 
+ * Description: prints word _putchar using putchar prototype
+ * Return: Returns 0 always
 */
 
 int main(void)
