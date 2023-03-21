@@ -3,6 +3,7 @@
 /**
  * _islower - function to check if
  *           character is lowercase
+ * @c: character whose case to determine
  *
  * Return: returns 1 if `c` is lowercase else 0
 */
