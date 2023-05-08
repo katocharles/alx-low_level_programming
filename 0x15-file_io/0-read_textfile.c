@@ -8,14 +8,14 @@
  * @letters: number of letters to read and print from file
  *
  * Return: success number or letters to print and failure return 0
-*/
+ */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 	int file;
 	ssize_t file_descriptor, charCount;
 	char *buffer;
 
- 	/* check if file exists */
+	/* check if file exists */
 	if (filename == NULL)
 		return (0);
 
